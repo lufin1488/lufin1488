@@ -27,7 +27,7 @@ LLM-сценарий → озвучка → генерация кадров → 
 
 ### 📬 Связь
 
-- Telegram: — <!-- впиши свой @ник -->
+- Telegram: [@abcdbc6767](https://t.me/abcdbc6767)
 - Email: maksimmoka83@gmail.com
 
 <sub>Открыт к заказам и сотрудничеству.</sub>
