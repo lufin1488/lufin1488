@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Максим — веб-разработка, Telegram-боты, ИИ-автоматизация">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E13"/>
+      <stop offset="1" stop-color="#111722"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E7EAF0"/>
+      <stop offset="0.55" stop-color="#7FC4FF"/>
+      <stop offset="1" stop-color="#3FCB82"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5B9BD8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#5B9BD8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#5B9BD8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#5B9BD8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="14" fill="url(#glow)"/>
+
+  <g stroke="#232A34" stroke-width="1" opacity="0.5">
+    <line x1="120" y1="0" x2="120" y2="280"/><line x1="240" y1="0" x2="240" y2="280"/>
+    <line x1="360" y1="0" x2="360" y2="280"/><line x1="480" y1="0" x2="480" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/><line x1="720" y1="0" x2="720" y2="280"/>
+    <line x1="840" y1="0" x2="840" y2="280"/><line x1="960" y1="0" x2="960" y2="280"/>
+    <line x1="1080" y1="0" x2="1080" y2="280"/>
+  </g>
+
+  <polygon points="0,236 100,222 200,244 300,214 400,238 500,210 600,240 700,216 800,246 900,208 1000,238 1100,220 1200,232 1200,280 0,280" fill="url(#area)"/>
+  <polyline points="0,236 100,222 200,244 300,214 400,238 500,210 600,240 700,216 800,246 900,208 1000,238 1100,220 1200,232" fill="none" stroke="#5B9BD8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.85" filter="url(#soft)"/>
+  <polyline points="0,258 150,248 300,262 450,244 600,260 750,246 900,262 1050,248 1200,258" fill="none" stroke="#3FCB82" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+
+  <g font-family="'IBM Plex Mono','Consolas',monospace">
+    <rect x="868" y="52" width="88" height="26" rx="4" fill="#131822" stroke="#232A34"/>
+    <text x="882" y="69" font-size="13" fill="#3FCB82">BTC ▲</text>
+    <rect x="964" y="52" width="88" height="26" rx="4" fill="#131822" stroke="#232A34"/>
+    <text x="978" y="69" font-size="13" fill="#3FCB82">ETH ▲</text>
+    <rect x="1060" y="52" width="88" height="26" rx="4" fill="#131822" stroke="#232A34"/>
+    <text x="1074" y="69" font-size="13" fill="#E8555A">XAU ▼</text>
+  </g>
+
+  <rect x="64" y="70" width="9" height="9" rx="1" fill="#5B9BD8"/>
+  <text x="84" y="79" font-family="'IBM Plex Mono','Consolas',monospace" font-size="13" letter-spacing="3" fill="#8B93A1">DEVELOPER · PORTFOLIO</text>
+
+  <text x="62" y="158" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="70" font-weight="700" fill="url(#name)">Максим</text>
+
+  <text x="66" y="196" font-family="'IBM Plex Mono','Consolas',monospace" font-size="15" letter-spacing="2.5" fill="#C6CCD6">САЙТЫ · TELEGRAM-БОТЫ · ИИ-АВТОМАТИЗАЦИЯ</text>
+
+  <text x="66" y="228" font-family="'IBM Plex Mono','Consolas',monospace" font-size="13.5" letter-spacing="1" fill="#5B9BD8">github.com/lufin1488</text>
+</svg>
